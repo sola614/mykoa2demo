@@ -1,0 +1,9 @@
+{
+  "restartable": "rs",
+  "verbose": true,
+  "execMap": {
+    "": "node",
+    "test": "gulp test"
+  },
+  "ext": "js json html"
+}
